@@ -1,2 +1,1 @@
-# FadiStudio Games: publisher ID has not been supplied.
-# No authorized seller record is asserted by this file yet.
+google.com, pub-6850405878320221, DIRECT, f08c47fec0942fa0
